@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+td{
+    width: 5vw;
+    height: 7vh;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.noborder{
+    border: none;
+}
+
+.firstTable{
+    border: none;
+
+}
+
+.firstcolumn{
+    background-color: rgb(211, 102, 102);
+}
+
+.secondBlock{
+    background-color: rgb(122, 172, 212);
+}
+
+.thirdBlock{
+    background-color: rgb(244, 247, 102);
+}
+
+.fourthBlock{
+    background-color: rgb(143, 214, 143);
+}
